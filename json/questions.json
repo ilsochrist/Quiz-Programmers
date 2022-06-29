@@ -1,0 +1,121 @@
+{
+    "questoes": [
+        {
+            "numQuestao": 0,
+            "pergunta": "pergunta",
+            "alternativaA": "Alternativa A",
+            "alternativaB": "Alternativa B",
+            "alternativaC": "Alternativa C",
+            "alternativaD": "Alternativa D",
+            "correta": "0"
+        },
+        {
+            "numQuestao": 1,
+            "pergunta": "Quem inventou a programação?",
+            "alternativaA": "Ada Lovelace",
+            "alternativaB": "Alan Turing",
+            "alternativaC": "Bill Gates",
+            "alternativaD": "Steve Jobs",
+            "correta": "Ada Lovelace"
+        },
+        {
+            "numQuestao": 2,
+            "pergunta": "Qual foi a primeira linguagem de programação?",
+            "alternativaA": "C",
+            "alternativaB": "Flow-Matic",
+            "alternativaC": "Java",
+            "alternativaD": "Python",
+            "correta": "Flow-Matic"
+        },
+        {
+            "numQuestao": 3,
+            "pergunta": "Qual o número de linguagens de programação existentes:?",
+            "alternativaA": "100",
+            "alternativaB": "220",
+            "alternativaC": "550",
+            "alternativaD": "1150",
+            "correta": "1150"
+        },
+        {
+            "numQuestao": 4,
+            "pergunta": "De onde surgiu o termo “bug”?",
+            "alternativaA": "Erro causado por um inseto",
+            "alternativaB": "Erro causado por uma pessoa",
+            "alternativaC": "Erro causado por uma máquina",
+            "alternativaD": "Erro causado por um raio",
+            "correta": "Erro causado por um inseto"
+        },
+        {
+            "numQuestao": 5,
+            "pergunta": "Que país comemora-se o dia do Programador como feriado nacional?",
+            "alternativaA": "Brasil",
+            "alternativaB": "Alemanha",
+            "alternativaC": "Argentina",
+            "alternativaD": "Rússia",
+            "correta": "Rússia"
+        },
+        {
+            "numQuestao": 6,
+            "pergunta": "Quais são as 3 linguagens brasileiras de programação? ",
+            "alternativaA": "Portugol, brtalk e bzgol",
+            "alternativaB": "Java, JavaScript e phyton",
+            "alternativaC": "C, java e C#",
+            "alternativaD": "Lua, boo e elixir",
+            "correta": "Lua, boo e elixir"
+        },
+        {
+            "numQuestao": 7,
+            "pergunta": "Quem criou o Hello Word?",
+            "alternativaA": "Brian Kernighan",
+            "alternativaB": "Bill Gates",
+            "alternativaC": "Steve Jobs",
+            "alternativaD": "Grace Hooper",
+            "correta": "Brian Kernighan"
+        },
+        {
+            "numQuestao": 8,
+            "pergunta": "Qual foi o primeiro malware da história?",
+            "alternativaA": "Cavalo de Tróia",
+            "alternativaB": "The Creeper",
+            "alternativaC": "Backdoor",
+            "alternativaD": "BrowserModifier",
+            "correta": "The Creeper"
+        },
+        {
+            "numQuestao": 9,
+            "pergunta": "Steve Jobs fundou qual empresa?",
+            "alternativaA": "Microsoft",
+            "alternativaB": "Yahoo",
+            "alternativaC": "Apple",
+            "alternativaD": "Intel",
+            "correta": "Apple"
+        },
+        {
+            "numQuestao": 10,
+            "pergunta": "Qual foi o primeiro sistema operacional realmente funcional?",
+            "alternativaA": "GM-NAA I/O",
+            "alternativaB": "Windows",
+            "alternativaC": "IOS",
+            "alternativaD": "XTS-400",
+            "correta": "GM-NAA I/O"
+        },
+        {
+            "numQuestao": 11,
+            "pergunta": "Qual foi o primeiro computador eletrônico?",
+            "alternativaA": "IBM PC",
+            "alternativaB": "NE Z80",
+            "alternativaC": "Windows-1994",
+            "alternativaD": "Eniac",
+            "correta": "Eniac"
+        },
+        {
+            "numQuestao": 12,
+            "pergunta": "Qual o ano da criação da internet?",
+            "alternativaA": "1969",
+            "alternativaB": "1973",
+            "alternativaC": "1980",
+            "alternativaD": "1968",
+            "correta": "1969"
+        }
+    ]
+}
